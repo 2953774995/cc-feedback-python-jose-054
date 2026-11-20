@@ -1,0 +1,5 @@
+来源仓库：https://github.com/mpdavis/python-jose
+冻结 commit：018b310ddb8b50dcfd09a0c152117835a21dd656
+许可证：MIT
+导入日期：2026-11-20
+说明：本目录为评测底座，已剥离上游 git 历史，仅保留代码快照。
